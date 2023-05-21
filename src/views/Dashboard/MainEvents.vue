@@ -122,6 +122,7 @@
       <div class="mt-5">
         <h1 class="text-2xl tracking-wide text-gray-800 font-medium">Edit Events</h1>
         <div class="mt-5 lg:px-10">
+ <div class="">Edit Event</div>
           <carousel
             :per-page="page"
             :centerMode="false"
@@ -171,7 +172,6 @@
                       />
                     </svg>
                   </div>
-<div class="">Edit</div>
                 </div>
               </div>
             </slide>
