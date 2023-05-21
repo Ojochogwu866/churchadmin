@@ -171,6 +171,7 @@
                       />
                     </svg>
                   </div>
+<div class="">Edit</div>
                 </div>
               </div>
             </slide>
